@@ -1,7 +1,6 @@
-<p align="center">
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&color=timeAuto)
 ### Hi there 👋
-</p>
+
 
 <!--
 **leemj98/leemj98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
