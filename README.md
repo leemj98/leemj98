@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>&nbsp 
